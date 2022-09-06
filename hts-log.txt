@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Tue, 06 Sep 2022 21:13:52 at https://wwwranjeetsinghconstructioncon.godaddysites.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://wwwranjeetsinghconstructioncon.godaddysites.com/ -O "/home/divyanshu/websites/construction" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:15:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): img1.wsimg.com/isteam/ip/d1ecef53-3f08-4b20-a18f-95ffa81121ed/IMG-20220902-WA0027.jpg/:/cr=t:0%25,l:2.73%25,w:94.53%25,h:100%25/rs=w:600,h:300,cg:true
+21:15:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wwwranjeetsinghconstructioncon.godaddysites.com/sw.js
+21:15:17	Warning: 	HTML file (78801 bytes) retransferred due to lack of cache: https://wwwranjeetsinghconstructioncon.godaddysites.com/gallery
+21:15:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): img1.wsimg.com/isteam/ip/d1ecef53-3f08-4b20-a18f-95ffa81121ed/blob-2ee848e.png/:/cr=t:0%25,l:2.73%25,w:94.53%25,h:100%25/rs=w:600,h:300,cg:true
+21:15:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://img1.wsimg.com/poly/v3/polyfill.min.js?rum=0&unknown=polyfill&flags=gated&features=Intl.~locale.en-IN
+21:15:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): img1.wsimg.com/blobby/go/d1ecef53-3f08-4b20-a18f-95ffa81121ed/gpub/4e3c7ca997953355/script.js
+21:15:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.27.0.js
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 32 seconds : 36 links scanned, 40 files written (2914568 bytes overall) [1266028 bytes received at 13761 bytes/sec], 1789128 bytes transferred using HTTP compression in 23 files, ratio 27%, 2.6 requests per connection
+(No errors, 7 warnings, 0 messages)
